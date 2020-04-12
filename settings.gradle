@@ -1,0 +1,2 @@
+rootProject.name='NewsAppTaskNovopay'
+include ':app'
